@@ -1,2 +1,2 @@
-# Angry-Birds-complete-
-Today we debugged the angry birds game and completed it
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
